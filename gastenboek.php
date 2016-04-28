@@ -1,10 +1,10 @@
 <?php
 //gastenboek.php
 require_once("Bericht.php");
-require_once("BerichtenHandelingen.php")
+require_once("BerichtenHandelingen.php");
 
 
-$berichtenLijst = new BerichtLijst();
+$Lijst = new BerichtLijst();
 
 ?>
 <!DOCTYPE html>
